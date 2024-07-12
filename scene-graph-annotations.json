@@ -1,0 +1,4009 @@
+[
+    {
+        "data_path": "2386621.jpg",
+        "annotation": {
+            "bboxes": [
+                [
+                    248,
+                    55,
+                    312,
+                    89
+                ],
+                [
+                    245,
+                    92,
+                    271,
+                    108
+                ],
+                [
+                    268,
+                    32,
+                    317,
+                    82
+                ],
+                [
+                    0,
+                    0,
+                    499,
+                    374
+                ],
+                [
+                    402,
+                    55,
+                    417,
+                    150
+                ],
+                [
+                    68,
+                    123,
+                    92,
+                    150
+                ],
+                [
+                    57,
+                    162,
+                    150,
+                    219
+                ],
+                [
+                    90,
+                    147,
+                    114,
+                    163
+                ],
+                [
+                    0,
+                    0,
+                    396,
+                    374
+                ],
+                [
+                    178,
+                    184,
+                    293,
+                    283
+                ],
+                [
+                    346,
+                    0,
+                    391,
+                    70
+                ],
+                [
+                    0,
+                    196,
+                    140,
+                    261
+                ],
+                [
+                    187,
+                    199,
+                    295,
+                    280
+                ],
+                [
+                    58,
+                    121,
+                    188,
+                    232
+                ],
+                [
+                    30,
+                    111,
+                    206,
+                    249
+                ],
+                [
+                    237,
+                    87,
+                    310,
+                    117
+                ]
+            ],
+            "labels": [
+                "banana",
+                "spots",
+                "bananas",
+                "picnic",
+                "straw",
+                "meat",
+                "rice",
+                "onions",
+                "tablecloth",
+                "bowl",
+                "plantains",
+                "spoon",
+                "dish",
+                "meal",
+                "plate",
+                "banana"
+            ],
+            "attributes": [
+                [
+                    "small",
+                    "yellow"
+                ],
+                [],
+                [
+                    "small",
+                    "yellow"
+                ],
+                [
+                    "delicious"
+                ],
+                [
+                    "white",
+                    "plastic"
+                ],
+                [
+                    "small",
+                    "brown",
+                    "delicious"
+                ],
+                [
+                    "piled",
+                    "white"
+                ],
+                [
+                    "green"
+                ],
+                [
+                    "white"
+                ],
+                [
+                    "full"
+                ],
+                [
+                    "red"
+                ],
+                [
+                    "large",
+                    "metal",
+                    "silver"
+                ],
+                [
+                    "cream colored"
+                ],
+                [],
+                [
+                    "white",
+                    "full"
+                ],
+                [
+                    "small",
+                    "yellow"
+                ]
+            ],
+            "relations": [
+                [
+                    0,
+                    "to the left of",
+                    4
+                ],
+                [
+                    2,
+                    "to the left of",
+                    10
+                ],
+                [
+                    4,
+                    "to the right of",
+                    8
+                ],
+                [
+                    4,
+                    "to the right of",
+                    0
+                ],
+                [
+                    4,
+                    "to the right of",
+                    15
+                ],
+                [
+                    5,
+                    "on",
+                    14
+                ],
+                [
+                    5,
+                    "inside",
+                    14
+                ],
+                [
+                    6,
+                    "on",
+                    14
+                ],
+                [
+                    6,
+                    "to the left of",
+                    9
+                ],
+                [
+                    8,
+                    "to the left of",
+                    4
+                ],
+                [
+                    9,
+                    "next to",
+                    14
+                ],
+                [
+                    9,
+                    "of",
+                    12
+                ],
+                [
+                    9,
+                    "near",
+                    14
+                ],
+                [
+                    9,
+                    "to the right of",
+                    11
+                ],
+                [
+                    9,
+                    "to the right of",
+                    6
+                ],
+                [
+                    9,
+                    "to the right of",
+                    14
+                ],
+                [
+                    10,
+                    "to the right of",
+                    2
+                ],
+                [
+                    11,
+                    "on",
+                    14
+                ],
+                [
+                    11,
+                    "to the left of",
+                    12
+                ],
+                [
+                    11,
+                    "in",
+                    14
+                ],
+                [
+                    11,
+                    "to the left of",
+                    9
+                ],
+                [
+                    12,
+                    "inside",
+                    9
+                ],
+                [
+                    12,
+                    "to the right of",
+                    11
+                ],
+                [
+                    12,
+                    "in",
+                    9
+                ],
+                [
+                    12,
+                    "to the right of",
+                    14
+                ],
+                [
+                    14,
+                    "to the left of",
+                    12
+                ],
+                [
+                    14,
+                    "of",
+                    13
+                ],
+                [
+                    14,
+                    "with",
+                    13
+                ],
+                [
+                    14,
+                    "near",
+                    9
+                ],
+                [
+                    14,
+                    "to the left of",
+                    9
+                ],
+                [
+                    15,
+                    "to the left of",
+                    4
+                ]
+            ],
+            "height": 375,
+            "width": 500
+        }
+    },
+    {
+        "data_path": "2373554.jpg",
+        "annotation": {
+            "bboxes": [
+                [
+                    134,
+                    0,
+                    190,
+                    85
+                ],
+                [
+                    143,
+                    15,
+                    172,
+                    31
+                ],
+                [
+                    249,
+                    13,
+                    281,
+                    46
+                ],
+                [
+                    304,
+                    11,
+                    330,
+                    76
+                ],
+                [
+                    261,
+                    54,
+                    290,
+                    75
+                ],
+                [
+                    382,
+                    0,
+                    395,
+                    145
+                ],
+                [
+                    281,
+                    0,
+                    304,
+                    116
+                ],
+                [
+                    460,
+                    1,
+                    483,
+                    105
+                ],
+                [
+                    395,
+                    40,
+                    416,
+                    73
+                ],
+                [
+                    213,
+                    53,
+                    242,
+                    83
+                ],
+                [
+                    184,
+                    53,
+                    276,
+                    237
+                ],
+                [
+                    274,
+                    114,
+                    498,
+                    279
+                ],
+                [
+                    1,
+                    42,
+                    498,
+                    279
+                ],
+                [
+                    67,
+                    126,
+                    171,
+                    166
+                ],
+                [
+                    3,
+                    45,
+                    311,
+                    279
+                ],
+                [
+                    257,
+                    215,
+                    267,
+                    264
+                ],
+                [
+                    224,
+                    232,
+                    233,
+                    264
+                ],
+                [
+                    250,
+                    222,
+                    267,
+                    235
+                ],
+                [
+                    219,
+                    226,
+                    236,
+                    235
+                ],
+                [
+                    253,
+                    0,
+                    494,
+                    113
+                ],
+                [
+                    4,
+                    3,
+                    161,
+                    96
+                ],
+                [
+                    86,
+                    45,
+                    103,
+                    54
+                ],
+                [
+                    187,
+                    91,
+                    200,
+                    111
+                ],
+                [
+                    0,
+                    0,
+                    52,
+                    132
+                ],
+                [
+                    37,
+                    174,
+                    188,
+                    279
+                ],
+                [
+                    188,
+                    92,
+                    216,
+                    190
+                ],
+                [
+                    61,
+                    0,
+                    117,
+                    103
+                ],
+                [
+                    0,
+                    100,
+                    59,
+                    148
+                ],
+                [
+                    299,
+                    118,
+                    336,
+                    159
+                ]
+            ],
+            "labels": [
+                "tree",
+                "leaves",
+                "leaves",
+                "leaves",
+                "leaves",
+                "tree",
+                "tree",
+                "tree",
+                "leaves",
+                "hat",
+                "boy",
+                "snow",
+                "ground",
+                "snow",
+                "road",
+                "ski",
+                "ski",
+                "foot",
+                "foot",
+                "bushes",
+                "bushes",
+                "leaves",
+                "hand",
+                "tree",
+                "snow",
+                "pole",
+                "tree",
+                "snow",
+                "twigs"
+            ],
+            "attributes": [
+                [],
+                [
+                    "green"
+                ],
+                [
+                    "green"
+                ],
+                [
+                    "green"
+                ],
+                [
+                    "green"
+                ],
+                [],
+                [],
+                [],
+                [
+                    "green"
+                ],
+                [],
+                [],
+                [
+                    "white"
+                ],
+                [
+                    "covered"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "green"
+                ],
+                [],
+                [],
+                [],
+                [
+                    "black"
+                ],
+                [],
+                [],
+                []
+            ],
+            "relations": [
+                [
+                    0,
+                    "to the left of",
+                    19
+                ],
+                [
+                    0,
+                    "to the left of",
+                    9
+                ],
+                [
+                    0,
+                    "to the right of",
+                    21
+                ],
+                [
+                    0,
+                    "to the right of",
+                    20
+                ],
+                [
+                    0,
+                    "to the left of",
+                    3
+                ],
+                [
+                    0,
+                    "to the left of",
+                    2
+                ],
+                [
+                    0,
+                    "to the left of",
+                    6
+                ],
+                [
+                    0,
+                    "to the left of",
+                    4
+                ],
+                [
+                    0,
+                    "to the right of",
+                    26
+                ],
+                [
+                    0,
+                    "to the right of",
+                    23
+                ],
+                [
+                    1,
+                    "to the left of",
+                    19
+                ],
+                [
+                    1,
+                    "to the left of",
+                    6
+                ],
+                [
+                    1,
+                    "to the left of",
+                    2
+                ],
+                [
+                    1,
+                    "to the right of",
+                    23
+                ],
+                [
+                    1,
+                    "to the right of",
+                    26
+                ],
+                [
+                    2,
+                    "to the right of",
+                    0
+                ],
+                [
+                    2,
+                    "to the right of",
+                    1
+                ],
+                [
+                    2,
+                    "to the left of",
+                    3
+                ],
+                [
+                    2,
+                    "to the left of",
+                    5
+                ],
+                [
+                    2,
+                    "to the left of",
+                    6
+                ],
+                [
+                    2,
+                    "to the right of",
+                    20
+                ],
+                [
+                    3,
+                    "to the right of",
+                    0
+                ],
+                [
+                    3,
+                    "to the right of",
+                    6
+                ],
+                [
+                    3,
+                    "to the left of",
+                    5
+                ],
+                [
+                    3,
+                    "to the right of",
+                    4
+                ],
+                [
+                    3,
+                    "to the right of",
+                    2
+                ],
+                [
+                    3,
+                    "to the right of",
+                    9
+                ],
+                [
+                    3,
+                    "to the left of",
+                    8
+                ],
+                [
+                    4,
+                    "to the left of",
+                    8
+                ],
+                [
+                    4,
+                    "to the right of",
+                    9
+                ],
+                [
+                    4,
+                    "to the left of",
+                    3
+                ],
+                [
+                    4,
+                    "to the left of",
+                    6
+                ],
+                [
+                    4,
+                    "to the right of",
+                    20
+                ],
+                [
+                    4,
+                    "to the right of",
+                    0
+                ],
+                [
+                    4,
+                    "to the left of",
+                    5
+                ],
+                [
+                    5,
+                    "to the right of",
+                    4
+                ],
+                [
+                    5,
+                    "to the right of",
+                    2
+                ],
+                [
+                    5,
+                    "to the left of",
+                    7
+                ],
+                [
+                    5,
+                    "to the right of",
+                    3
+                ],
+                [
+                    5,
+                    "to the right of",
+                    28
+                ],
+                [
+                    5,
+                    "to the left of",
+                    8
+                ],
+                [
+                    5,
+                    "to the right of",
+                    6
+                ],
+                [
+                    5,
+                    "to the right of",
+                    14
+                ],
+                [
+                    5,
+                    "to the right of",
+                    10
+                ],
+                [
+                    6,
+                    "to the left of",
+                    8
+                ],
+                [
+                    6,
+                    "to the right of",
+                    9
+                ],
+                [
+                    6,
+                    "to the right of",
+                    20
+                ],
+                [
+                    6,
+                    "to the left of",
+                    3
+                ],
+                [
+                    6,
+                    "to the right of",
+                    1
+                ],
+                [
+                    6,
+                    "to the left of",
+                    5
+                ],
+                [
+                    6,
+                    "to the right of",
+                    0
+                ],
+                [
+                    6,
+                    "to the right of",
+                    22
+                ],
+                [
+                    6,
+                    "to the right of",
+                    2
+                ],
+                [
+                    6,
+                    "to the right of",
+                    4
+                ],
+                [
+                    7,
+                    "to the right of",
+                    8
+                ],
+                [
+                    7,
+                    "to the right of",
+                    5
+                ],
+                [
+                    8,
+                    "to the right of",
+                    14
+                ],
+                [
+                    8,
+                    "to the right of",
+                    10
+                ],
+                [
+                    8,
+                    "to the right of",
+                    6
+                ],
+                [
+                    8,
+                    "to the right of",
+                    5
+                ],
+                [
+                    8,
+                    "to the right of",
+                    4
+                ],
+                [
+                    8,
+                    "to the right of",
+                    3
+                ],
+                [
+                    8,
+                    "to the left of",
+                    7
+                ],
+                [
+                    8,
+                    "on",
+                    7
+                ],
+                [
+                    9,
+                    "to the right of",
+                    26
+                ],
+                [
+                    9,
+                    "to the left of",
+                    19
+                ],
+                [
+                    9,
+                    "to the right of",
+                    20
+                ],
+                [
+                    9,
+                    "to the left of",
+                    4
+                ],
+                [
+                    9,
+                    "to the left of",
+                    6
+                ],
+                [
+                    9,
+                    "to the right of",
+                    0
+                ],
+                [
+                    9,
+                    "to the left of",
+                    3
+                ],
+                [
+                    10,
+                    "to the left of",
+                    8
+                ],
+                [
+                    10,
+                    "to the left of",
+                    11
+                ],
+                [
+                    10,
+                    "to the left of",
+                    5
+                ],
+                [
+                    10,
+                    "to the left of",
+                    28
+                ],
+                [
+                    10,
+                    "to the right of",
+                    24
+                ],
+                [
+                    10,
+                    "wearing",
+                    9
+                ],
+                [
+                    10,
+                    "to the right of",
+                    13
+                ],
+                [
+                    11,
+                    "to the right of",
+                    16
+                ],
+                [
+                    11,
+                    "to the right of",
+                    15
+                ],
+                [
+                    11,
+                    "to the right of",
+                    24
+                ],
+                [
+                    11,
+                    "to the right of",
+                    17
+                ],
+                [
+                    11,
+                    "to the right of",
+                    18
+                ],
+                [
+                    11,
+                    "to the right of",
+                    10
+                ],
+                [
+                    11,
+                    "to the right of",
+                    14
+                ],
+                [
+                    11,
+                    "to the right of",
+                    13
+                ],
+                [
+                    11,
+                    "to the right of",
+                    25
+                ],
+                [
+                    13,
+                    "to the right of",
+                    27
+                ],
+                [
+                    13,
+                    "to the left of",
+                    25
+                ],
+                [
+                    13,
+                    "to the left of",
+                    10
+                ],
+                [
+                    13,
+                    "to the left of",
+                    11
+                ],
+                [
+                    13,
+                    "on",
+                    12
+                ],
+                [
+                    14,
+                    "to the left of",
+                    5
+                ],
+                [
+                    14,
+                    "to the left of",
+                    11
+                ],
+                [
+                    14,
+                    "to the left of",
+                    8
+                ],
+                [
+                    14,
+                    "to the left of",
+                    19
+                ],
+                [
+                    14,
+                    "to the left of",
+                    28
+                ],
+                [
+                    15,
+                    "to the left of",
+                    11
+                ],
+                [
+                    15,
+                    "to the right of",
+                    16
+                ],
+                [
+                    15,
+                    "to the right of",
+                    18
+                ],
+                [
+                    15,
+                    "to the right of",
+                    24
+                ],
+                [
+                    16,
+                    "to the left of",
+                    11
+                ],
+                [
+                    16,
+                    "to the left of",
+                    15
+                ],
+                [
+                    16,
+                    "to the right of",
+                    24
+                ],
+                [
+                    17,
+                    "to the right of",
+                    18
+                ],
+                [
+                    17,
+                    "to the right of",
+                    24
+                ],
+                [
+                    17,
+                    "to the left of",
+                    11
+                ],
+                [
+                    18,
+                    "to the right of",
+                    24
+                ],
+                [
+                    18,
+                    "to the left of",
+                    17
+                ],
+                [
+                    18,
+                    "to the left of",
+                    15
+                ],
+                [
+                    18,
+                    "to the left of",
+                    11
+                ],
+                [
+                    19,
+                    "to the right of",
+                    22
+                ],
+                [
+                    19,
+                    "to the right of",
+                    9
+                ],
+                [
+                    19,
+                    "to the right of",
+                    1
+                ],
+                [
+                    19,
+                    "to the right of",
+                    0
+                ],
+                [
+                    19,
+                    "to the right of",
+                    20
+                ],
+                [
+                    19,
+                    "to the right of",
+                    14
+                ],
+                [
+                    20,
+                    "to the left of",
+                    19
+                ],
+                [
+                    20,
+                    "to the left of",
+                    6
+                ],
+                [
+                    20,
+                    "to the left of",
+                    9
+                ],
+                [
+                    20,
+                    "to the left of",
+                    2
+                ],
+                [
+                    20,
+                    "to the left of",
+                    4
+                ],
+                [
+                    20,
+                    "to the left of",
+                    0
+                ],
+                [
+                    21,
+                    "on",
+                    23
+                ],
+                [
+                    21,
+                    "to the right of",
+                    23
+                ],
+                [
+                    21,
+                    "to the left of",
+                    0
+                ],
+                [
+                    22,
+                    "to the right of",
+                    26
+                ],
+                [
+                    22,
+                    "to the left of",
+                    6
+                ],
+                [
+                    22,
+                    "to the left of",
+                    19
+                ],
+                [
+                    23,
+                    "to the left of",
+                    0
+                ],
+                [
+                    23,
+                    "to the left of",
+                    1
+                ],
+                [
+                    23,
+                    "to the left of",
+                    21
+                ],
+                [
+                    23,
+                    "to the left of",
+                    26
+                ],
+                [
+                    24,
+                    "to the left of",
+                    16
+                ],
+                [
+                    24,
+                    "to the left of",
+                    15
+                ],
+                [
+                    24,
+                    "to the left of",
+                    11
+                ],
+                [
+                    24,
+                    "to the left of",
+                    10
+                ],
+                [
+                    24,
+                    "to the left of",
+                    18
+                ],
+                [
+                    24,
+                    "to the left of",
+                    17
+                ],
+                [
+                    24,
+                    "on",
+                    14
+                ],
+                [
+                    25,
+                    "to the left of",
+                    28
+                ],
+                [
+                    25,
+                    "to the right of",
+                    13
+                ],
+                [
+                    25,
+                    "to the left of",
+                    11
+                ],
+                [
+                    26,
+                    "to the left of",
+                    9
+                ],
+                [
+                    26,
+                    "to the left of",
+                    0
+                ],
+                [
+                    26,
+                    "to the left of",
+                    1
+                ],
+                [
+                    26,
+                    "to the left of",
+                    22
+                ],
+                [
+                    26,
+                    "to the right of",
+                    23
+                ],
+                [
+                    27,
+                    "to the left of",
+                    13
+                ],
+                [
+                    28,
+                    "to the right of",
+                    25
+                ],
+                [
+                    28,
+                    "to the right of",
+                    10
+                ],
+                [
+                    28,
+                    "to the left of",
+                    5
+                ],
+                [
+                    28,
+                    "to the right of",
+                    14
+                ]
+            ],
+            "height": 281,
+            "width": 500
+        }
+    },
+    {
+        "data_path": "2370799.jpg",
+        "annotation": {
+            "bboxes": [
+                [
+                    215,
+                    227,
+                    362,
+                    333
+                ],
+                [
+                    12,
+                    260,
+                    107,
+                    303
+                ],
+                [
+                    384,
+                    186,
+                    488,
+                    333
+                ],
+                [
+                    108,
+                    89,
+                    162,
+                    205
+                ],
+                [
+                    234,
+                    110,
+                    274,
+                    180
+                ],
+                [
+                    0,
+                    242,
+                    109,
+                    333
+                ],
+                [
+                    0,
+                    201,
+                    52,
+                    236
+                ],
+                [
+                    108,
+                    173,
+                    143,
+                    204
+                ],
+                [
+                    246,
+                    109,
+                    261,
+                    122
+                ],
+                [
+                    44,
+                    128,
+                    206,
+                    226
+                ],
+                [
+                    43,
+                    172,
+                    206,
+                    227
+                ],
+                [
+                    242,
+                    131,
+                    280,
+                    188
+                ],
+                [
+                    96,
+                    110,
+                    116,
+                    146
+                ],
+                [
+                    1,
+                    0,
+                    500,
+                    225
+                ],
+                [
+                    121,
+                    89,
+                    152,
+                    107
+                ],
+                [
+                    186,
+                    214,
+                    496,
+                    333
+                ]
+            ],
+            "labels": [
+                "brush",
+                "water",
+                "branch",
+                "men",
+                "man",
+                "mud",
+                "dirt",
+                "boot",
+                "helmet",
+                "bike",
+                "tires",
+                "bike",
+                "bag",
+                "tree",
+                "helmet",
+                "grass"
+            ],
+            "attributes": [
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "blue"
+                ],
+                [],
+                [
+                    "orange"
+                ],
+                [
+                    "black"
+                ],
+                [
+                    "old"
+                ],
+                [
+                    "blue"
+                ],
+                [
+                    "tall"
+                ]
+            ],
+            "relations": [
+                [
+                    0,
+                    "to the right of",
+                    5
+                ],
+                [
+                    0,
+                    "to the right of",
+                    1
+                ],
+                [
+                    0,
+                    "to the left of",
+                    2
+                ],
+                [
+                    1,
+                    "to the left of",
+                    15
+                ],
+                [
+                    1,
+                    "to the left of",
+                    0
+                ],
+                [
+                    2,
+                    "to the right of",
+                    0
+                ],
+                [
+                    3,
+                    "to the left of",
+                    11
+                ],
+                [
+                    3,
+                    "to the right of",
+                    12
+                ],
+                [
+                    3,
+                    "to the left of",
+                    8
+                ],
+                [
+                    3,
+                    "to the left of",
+                    4
+                ],
+                [
+                    3,
+                    "riding",
+                    9
+                ],
+                [
+                    4,
+                    "to the right of",
+                    3
+                ],
+                [
+                    4,
+                    "wearing",
+                    8
+                ],
+                [
+                    4,
+                    "to the right of",
+                    9
+                ],
+                [
+                    4,
+                    "riding",
+                    11
+                ],
+                [
+                    4,
+                    "to the right of",
+                    12
+                ],
+                [
+                    5,
+                    "to the left of",
+                    15
+                ],
+                [
+                    5,
+                    "to the left of",
+                    0
+                ],
+                [
+                    6,
+                    "to the left of",
+                    9
+                ],
+                [
+                    6,
+                    "to the left of",
+                    10
+                ],
+                [
+                    8,
+                    "to the right of",
+                    3
+                ],
+                [
+                    9,
+                    "to the right of",
+                    6
+                ],
+                [
+                    9,
+                    "to the left of",
+                    11
+                ],
+                [
+                    9,
+                    "to the left of",
+                    4
+                ],
+                [
+                    10,
+                    "to the right of",
+                    6
+                ],
+                [
+                    11,
+                    "to the right of",
+                    9
+                ],
+                [
+                    11,
+                    "to the right of",
+                    3
+                ],
+                [
+                    12,
+                    "to the left of",
+                    3
+                ],
+                [
+                    12,
+                    "to the left of",
+                    4
+                ],
+                [
+                    15,
+                    "to the right of",
+                    5
+                ],
+                [
+                    15,
+                    "to the right of",
+                    1
+                ]
+            ],
+            "height": 333,
+            "width": 500
+        }
+    },
+    {
+        "data_path": "2370791.jpg",
+        "annotation": {
+            "bboxes": [
+                [
+                    177,
+                    160,
+                    256,
+                    197
+                ],
+                [
+                    35,
+                    156,
+                    90,
+                    276
+                ],
+                [
+                    469,
+                    11,
+                    498,
+                    124
+                ],
+                [
+                    323,
+                    316,
+                    345,
+                    332
+                ],
+                [
+                    250,
+                    234,
+                    325,
+                    259
+                ],
+                [
+                    345,
+                    279,
+                    377,
+                    332
+                ],
+                [
+                    78,
+                    186,
+                    163,
+                    242
+                ],
+                [
+                    373,
+                    144,
+                    499,
+                    303
+                ],
+                [
+                    307,
+                    107,
+                    374,
+                    235
+                ],
+                [
+                    35,
+                    31,
+                    176,
+                    193
+                ],
+                [
+                    0,
+                    143,
+                    431,
+                    332
+                ],
+                [
+                    303,
+                    225,
+                    330,
+                    249
+                ],
+                [
+                    0,
+                    0,
+                    497,
+                    234
+                ],
+                [
+                    0,
+                    232,
+                    43,
+                    327
+                ],
+                [
+                    372,
+                    141,
+                    499,
+                    273
+                ],
+                [
+                    246,
+                    233,
+                    334,
+                    278
+                ]
+            ],
+            "labels": [
+                "cake",
+                "faucet",
+                "window",
+                "cabinet",
+                "food",
+                "cabinet",
+                "faucet",
+                "sofa",
+                "cereal box",
+                "decoration",
+                "counter",
+                "spoon",
+                "wall",
+                "bowl",
+                "blanket",
+                "bowl"
+            ],
+            "attributes": [
+                [],
+                [
+                    "silver"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "framed"
+                ],
+                [],
+                [
+                    "metal"
+                ],
+                [],
+                [
+                    "black"
+                ],
+                [
+                    "blue"
+                ],
+                [
+                    "white"
+                ]
+            ],
+            "relations": [
+                [
+                    0,
+                    "to the right of",
+                    9
+                ],
+                [
+                    0,
+                    "to the left of",
+                    7
+                ],
+                [
+                    0,
+                    "sitting on top of",
+                    10
+                ],
+                [
+                    0,
+                    "to the left of",
+                    8
+                ],
+                [
+                    0,
+                    "to the left of",
+                    14
+                ],
+                [
+                    0,
+                    "to the right of",
+                    1
+                ],
+                [
+                    1,
+                    "to the left of",
+                    0
+                ],
+                [
+                    1,
+                    "to the left of",
+                    6
+                ],
+                [
+                    3,
+                    "to the left of",
+                    5
+                ],
+                [
+                    4,
+                    "in",
+                    15
+                ],
+                [
+                    4,
+                    "to the left of",
+                    14
+                ],
+                [
+                    4,
+                    "to the left of",
+                    7
+                ],
+                [
+                    5,
+                    "to the right of",
+                    3
+                ],
+                [
+                    6,
+                    "to the right of",
+                    1
+                ],
+                [
+                    7,
+                    "to the right of",
+                    10
+                ],
+                [
+                    7,
+                    "to the right of",
+                    0
+                ],
+                [
+                    7,
+                    "to the right of",
+                    8
+                ],
+                [
+                    7,
+                    "to the right of",
+                    15
+                ],
+                [
+                    7,
+                    "to the right of",
+                    4
+                ],
+                [
+                    7,
+                    "to the right of",
+                    11
+                ],
+                [
+                    8,
+                    "to the right of",
+                    0
+                ],
+                [
+                    8,
+                    "to the left of",
+                    7
+                ],
+                [
+                    8,
+                    "to the left of",
+                    14
+                ],
+                [
+                    9,
+                    "to the left of",
+                    0
+                ],
+                [
+                    9,
+                    "hanging on",
+                    12
+                ],
+                [
+                    10,
+                    "to the left of",
+                    14
+                ],
+                [
+                    10,
+                    "to the left of",
+                    7
+                ],
+                [
+                    11,
+                    "in",
+                    15
+                ],
+                [
+                    11,
+                    "to the left of",
+                    14
+                ],
+                [
+                    11,
+                    "sitting in",
+                    15
+                ],
+                [
+                    11,
+                    "to the left of",
+                    7
+                ],
+                [
+                    14,
+                    "to the right of",
+                    4
+                ],
+                [
+                    14,
+                    "to the right of",
+                    15
+                ],
+                [
+                    14,
+                    "to the right of",
+                    11
+                ],
+                [
+                    14,
+                    "to the right of",
+                    8
+                ],
+                [
+                    14,
+                    "to the right of",
+                    0
+                ],
+                [
+                    14,
+                    "to the right of",
+                    10
+                ],
+                [
+                    14,
+                    "lying on",
+                    7
+                ],
+                [
+                    15,
+                    "on",
+                    10
+                ],
+                [
+                    15,
+                    "to the left of",
+                    7
+                ],
+                [
+                    15,
+                    "to the left of",
+                    14
+                ]
+            ],
+            "height": 333,
+            "width": 500
+        }
+    },
+    {
+        "data_path": "2370790.jpg",
+        "annotation": {
+            "bboxes": [
+                [
+                    0,
+                    55,
+                    499,
+                    76
+                ],
+                [
+                    238,
+                    202,
+                    284,
+                    229
+                ],
+                [
+                    189,
+                    201,
+                    240,
+                    228
+                ],
+                [
+                    89,
+                    213,
+                    131,
+                    276
+                ],
+                [
+                    93,
+                    45,
+                    138,
+                    57
+                ],
+                [
+                    1,
+                    0,
+                    500,
+                    203
+                ],
+                [
+                    365,
+                    104,
+                    412,
+                    133
+                ],
+                [
+                    192,
+                    50,
+                    252,
+                    68
+                ],
+                [
+                    1,
+                    181,
+                    159,
+                    288
+                ],
+                [
+                    0,
+                    179,
+                    100,
+                    284
+                ],
+                [
+                    429,
+                    221,
+                    500,
+                    270
+                ],
+                [
+                    96,
+                    172,
+                    190,
+                    186
+                ],
+                [
+                    0,
+                    269,
+                    499,
+                    318
+                ],
+                [
+                    91,
+                    231,
+                    168,
+                    280
+                ],
+                [
+                    467,
+                    220,
+                    499,
+                    265
+                ],
+                [
+                    79,
+                    99,
+                    301,
+                    190
+                ],
+                [
+                    284,
+                    202,
+                    339,
+                    231
+                ],
+                [
+                    241,
+                    173,
+                    286,
+                    186
+                ],
+                [
+                    85,
+                    5,
+                    89,
+                    99
+                ],
+                [
+                    453,
+                    267,
+                    499,
+                    279
+                ],
+                [
+                    341,
+                    134,
+                    345,
+                    186
+                ],
+                [
+                    163,
+                    196,
+                    432,
+                    297
+                ]
+            ],
+            "labels": [
+                "wire",
+                "window",
+                "window",
+                "bicycle",
+                "cloud",
+                "sky",
+                "cloud",
+                "cloud",
+                "trailer",
+                "hotel",
+                "fence",
+                "paint",
+                "road",
+                "fence",
+                "dirt",
+                "sign",
+                "window",
+                "hotel",
+                "pole",
+                "rocks",
+                "pole",
+                "car"
+            ],
+            "attributes": [
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "small",
+                    "white"
+                ],
+                [],
+                [],
+                [],
+                [
+                    "wood"
+                ],
+                [
+                    "green"
+                ],
+                [],
+                [],
+                [],
+                [
+                    "white"
+                ],
+                [],
+                [],
+                [
+                    "wood",
+                    "electric"
+                ],
+                [],
+                [
+                    "electric"
+                ],
+                []
+            ],
+            "relations": [
+                [
+                    1,
+                    "to the left of",
+                    16
+                ],
+                [
+                    1,
+                    "to the right of",
+                    2
+                ],
+                [
+                    1,
+                    "to the right of",
+                    8
+                ],
+                [
+                    1,
+                    "to the right of",
+                    3
+                ],
+                [
+                    2,
+                    "to the left of",
+                    1
+                ],
+                [
+                    2,
+                    "to the right of",
+                    3
+                ],
+                [
+                    2,
+                    "to the left of",
+                    16
+                ],
+                [
+                    2,
+                    "to the right of",
+                    9
+                ],
+                [
+                    2,
+                    "to the right of",
+                    8
+                ],
+                [
+                    3,
+                    "to the left of",
+                    21
+                ],
+                [
+                    3,
+                    "to the left of",
+                    1
+                ],
+                [
+                    3,
+                    "to the right of",
+                    9
+                ],
+                [
+                    3,
+                    "to the left of",
+                    2
+                ],
+                [
+                    4,
+                    "to the left of",
+                    7
+                ],
+                [
+                    4,
+                    "to the right of",
+                    18
+                ],
+                [
+                    6,
+                    "in",
+                    5
+                ],
+                [
+                    6,
+                    "to the right of",
+                    15
+                ],
+                [
+                    7,
+                    "to the right of",
+                    4
+                ],
+                [
+                    7,
+                    "to the right of",
+                    18
+                ],
+                [
+                    8,
+                    "to the left of",
+                    16
+                ],
+                [
+                    8,
+                    "to the left of",
+                    21
+                ],
+                [
+                    8,
+                    "pulled by",
+                    21
+                ],
+                [
+                    8,
+                    "to the left of",
+                    1
+                ],
+                [
+                    8,
+                    "to the left of",
+                    2
+                ],
+                [
+                    9,
+                    "to the left of",
+                    13
+                ],
+                [
+                    9,
+                    "to the left of",
+                    21
+                ],
+                [
+                    9,
+                    "to the left of",
+                    3
+                ],
+                [
+                    9,
+                    "to the left of",
+                    2
+                ],
+                [
+                    10,
+                    "to the right of",
+                    21
+                ],
+                [
+                    11,
+                    "to the left of",
+                    17
+                ],
+                [
+                    13,
+                    "to the left of",
+                    21
+                ],
+                [
+                    13,
+                    "to the right of",
+                    9
+                ],
+                [
+                    14,
+                    "to the right of",
+                    21
+                ],
+                [
+                    15,
+                    "to the left of",
+                    6
+                ],
+                [
+                    15,
+                    "to the left of",
+                    20
+                ],
+                [
+                    16,
+                    "to the right of",
+                    1
+                ],
+                [
+                    16,
+                    "to the right of",
+                    8
+                ],
+                [
+                    16,
+                    "to the right of",
+                    2
+                ],
+                [
+                    17,
+                    "to the left of",
+                    20
+                ],
+                [
+                    17,
+                    "to the right of",
+                    11
+                ],
+                [
+                    18,
+                    "to the left of",
+                    4
+                ],
+                [
+                    18,
+                    "to the left of",
+                    7
+                ],
+                [
+                    19,
+                    "to the right of",
+                    21
+                ],
+                [
+                    20,
+                    "to the right of",
+                    15
+                ],
+                [
+                    20,
+                    "to the right of",
+                    17
+                ],
+                [
+                    21,
+                    "pulling",
+                    8
+                ],
+                [
+                    21,
+                    "to the right of",
+                    3
+                ],
+                [
+                    21,
+                    "to the right of",
+                    13
+                ],
+                [
+                    21,
+                    "to the left of",
+                    10
+                ],
+                [
+                    21,
+                    "to the left of",
+                    14
+                ],
+                [
+                    21,
+                    "to the right of",
+                    8
+                ],
+                [
+                    21,
+                    "to the left of",
+                    19
+                ],
+                [
+                    21,
+                    "to the right of",
+                    9
+                ]
+            ],
+            "height": 318,
+            "width": 500
+        }
+    },
+    {
+        "data_path": "2332650.jpg",
+        "annotation": {
+            "bboxes": [
+                [
+                    249,
+                    95,
+                    271,
+                    107
+                ],
+                [
+                    206,
+                    114,
+                    277,
+                    280
+                ],
+                [
+                    199,
+                    315,
+                    264,
+                    366
+                ],
+                [
+                    265,
+                    150,
+                    280,
+                    164
+                ],
+                [
+                    265,
+                    130,
+                    274,
+                    143
+                ],
+                [
+                    267,
+                    128,
+                    291,
+                    158
+                ],
+                [
+                    188,
+                    235,
+                    224,
+                    288
+                ],
+                [
+                    111,
+                    0,
+                    374,
+                    310
+                ],
+                [
+                    67,
+                    0,
+                    125,
+                    374
+                ],
+                [
+                    205,
+                    73,
+                    290,
+                    287
+                ],
+                [
+                    72,
+                    155,
+                    120,
+                    212
+                ]
+            ],
+            "labels": [
+                "eye glasses",
+                "shirt",
+                "faucet",
+                "watch",
+                "camera",
+                "hand",
+                "toilet tank",
+                "mirror",
+                "wall",
+                "guy",
+                "light switch"
+            ],
+            "attributes": [
+                [],
+                [
+                    "brown"
+                ],
+                [
+                    "chrome"
+                ],
+                [],
+                [
+                    "silver"
+                ],
+                [],
+                [
+                    "white"
+                ],
+                [],
+                [],
+                [],
+                []
+            ],
+            "relations": [
+                [
+                    0,
+                    "to the right of",
+                    8
+                ],
+                [
+                    1,
+                    "to the left of",
+                    5
+                ],
+                [
+                    1,
+                    "to the right of",
+                    10
+                ],
+                [
+                    1,
+                    "to the right of",
+                    8
+                ],
+                [
+                    2,
+                    "to the right of",
+                    8
+                ],
+                [
+                    5,
+                    "to the right of",
+                    1
+                ],
+                [
+                    6,
+                    "to the right of",
+                    8
+                ],
+                [
+                    7,
+                    "to the right of",
+                    10
+                ],
+                [
+                    7,
+                    "to the right of",
+                    8
+                ],
+                [
+                    7,
+                    "on",
+                    8
+                ],
+                [
+                    8,
+                    "to the left of",
+                    0
+                ],
+                [
+                    8,
+                    "to the left of",
+                    1
+                ],
+                [
+                    8,
+                    "to the left of",
+                    2
+                ],
+                [
+                    8,
+                    "to the left of",
+                    7
+                ],
+                [
+                    8,
+                    "to the left of",
+                    6
+                ],
+                [
+                    8,
+                    "to the left of",
+                    9
+                ],
+                [
+                    9,
+                    "to the right of",
+                    8
+                ],
+                [
+                    9,
+                    "to the right of",
+                    10
+                ],
+                [
+                    9,
+                    "wearing",
+                    0
+                ],
+                [
+                    10,
+                    "to the left of",
+                    1
+                ],
+                [
+                    10,
+                    "to the left of",
+                    7
+                ],
+                [
+                    10,
+                    "to the left of",
+                    9
+                ]
+            ],
+            "height": 375,
+            "width": 500
+        }
+    },
+    {
+        "data_path": "2373556.jpg",
+        "annotation": {
+            "bboxes": [
+                [
+                    13,
+                    271,
+                    96,
+                    292
+                ],
+                [
+                    1,
+                    231,
+                    500,
+                    373
+                ],
+                [
+                    50,
+                    121,
+                    499,
+                    232
+                ],
+                [
+                    338,
+                    187,
+                    348,
+                    231
+                ],
+                [
+                    262,
+                    281,
+                    273,
+                    311
+                ],
+                [
+                    191,
+                    295,
+                    205,
+                    311
+                ],
+                [
+                    378,
+                    227,
+                    430,
+                    248
+                ],
+                [
+                    272,
+                    222,
+                    343,
+                    262
+                ],
+                [
+                    234,
+                    244,
+                    243,
+                    261
+                ],
+                [
+                    0,
+                    137,
+                    25,
+                    191
+                ],
+                [
+                    434,
+                    336,
+                    486,
+                    367
+                ],
+                [
+                    305,
+                    169,
+                    498,
+                    192
+                ],
+                [
+                    436,
+                    0,
+                    475,
+                    239
+                ],
+                [
+                    203,
+                    273,
+                    228,
+                    282
+                ],
+                [
+                    53,
+                    94,
+                    484,
+                    236
+                ],
+                [
+                    433,
+                    0,
+                    467,
+                    235
+                ],
+                [
+                    124,
+                    279,
+                    158,
+                    306
+                ],
+                [
+                    167,
+                    241,
+                    193,
+                    284
+                ],
+                [
+                    244,
+                    285,
+                    258,
+                    312
+                ],
+                [
+                    160,
+                    311,
+                    255,
+                    348
+                ],
+                [
+                    5,
+                    277,
+                    122,
+                    325
+                ],
+                [
+                    449,
+                    234,
+                    498,
+                    291
+                ],
+                [
+                    119,
+                    206,
+                    190,
+                    234
+                ],
+                [
+                    188,
+                    220,
+                    280,
+                    310
+                ],
+                [
+                    358,
+                    230,
+                    434,
+                    273
+                ],
+                [
+                    7,
+                    236,
+                    53,
+                    250
+                ],
+                [
+                    45,
+                    126,
+                    68,
+                    191
+                ]
+            ],
+            "labels": [
+                "platform",
+                "ground",
+                "building",
+                "pole",
+                "tire",
+                "tire",
+                "street",
+                "fence",
+                "people",
+                "trees",
+                "road",
+                "shelter",
+                "tower",
+                "logo",
+                "building",
+                "tower",
+                "street",
+                "fence",
+                "wheel",
+                "road",
+                "road",
+                "road",
+                "trailer",
+                "truck",
+                "road",
+                "bench",
+                "trees"
+            ],
+            "attributes": [
+                [
+                    "orange"
+                ],
+                [],
+                [
+                    "large",
+                    "white"
+                ],
+                [
+                    "green"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "gray"
+                ],
+                [
+                    "white"
+                ],
+                [
+                    "white"
+                ],
+                [
+                    "blue"
+                ],
+                [],
+                [
+                    "metal"
+                ],
+                [],
+                [
+                    "metal"
+                ],
+                [],
+                [
+                    "gray"
+                ],
+                [
+                    "gray"
+                ],
+                [
+                    "dotted"
+                ],
+                [
+                    "blue"
+                ],
+                [
+                    "white"
+                ],
+                [],
+                [],
+                [
+                    "green"
+                ]
+            ],
+            "relations": [
+                [
+                    0,
+                    "to the left of",
+                    23
+                ],
+                [
+                    0,
+                    "to the left of",
+                    17
+                ],
+                [
+                    0,
+                    "to the left of",
+                    16
+                ],
+                [
+                    0,
+                    "to the left of",
+                    13
+                ],
+                [
+                    2,
+                    "to the right of",
+                    9
+                ],
+                [
+                    3,
+                    "to the left of",
+                    12
+                ],
+                [
+                    3,
+                    "to the left of",
+                    15
+                ],
+                [
+                    4,
+                    "to the right of",
+                    5
+                ],
+                [
+                    4,
+                    "to the right of",
+                    16
+                ],
+                [
+                    4,
+                    "to the right of",
+                    18
+                ],
+                [
+                    5,
+                    "to the right of",
+                    20
+                ],
+                [
+                    5,
+                    "to the left of",
+                    4
+                ],
+                [
+                    5,
+                    "to the right of",
+                    16
+                ],
+                [
+                    5,
+                    "to the left of",
+                    18
+                ],
+                [
+                    6,
+                    "to the right of",
+                    23
+                ],
+                [
+                    6,
+                    "to the left of",
+                    21
+                ],
+                [
+                    6,
+                    "to the left of",
+                    12
+                ],
+                [
+                    6,
+                    "to the right of",
+                    7
+                ],
+                [
+                    7,
+                    "to the right of",
+                    8
+                ],
+                [
+                    7,
+                    "to the left of",
+                    6
+                ],
+                [
+                    7,
+                    "to the right of",
+                    23
+                ],
+                [
+                    7,
+                    "to the left of",
+                    21
+                ],
+                [
+                    7,
+                    "to the left of",
+                    24
+                ],
+                [
+                    8,
+                    "to the right of",
+                    17
+                ],
+                [
+                    8,
+                    "to the left of",
+                    7
+                ],
+                [
+                    8,
+                    "to the left of",
+                    24
+                ],
+                [
+                    9,
+                    "to the left of",
+                    26
+                ],
+                [
+                    9,
+                    "to the left of",
+                    14
+                ],
+                [
+                    9,
+                    "to the left of",
+                    2
+                ],
+                [
+                    11,
+                    "of",
+                    14
+                ],
+                [
+                    12,
+                    "to the right of",
+                    3
+                ],
+                [
+                    12,
+                    "to the right of",
+                    6
+                ],
+                [
+                    13,
+                    "to the right of",
+                    0
+                ],
+                [
+                    13,
+                    "to the right of",
+                    17
+                ],
+                [
+                    13,
+                    "to the right of",
+                    20
+                ],
+                [
+                    14,
+                    "to the right of",
+                    9
+                ],
+                [
+                    15,
+                    "to the right of",
+                    3
+                ],
+                [
+                    16,
+                    "to the left of",
+                    4
+                ],
+                [
+                    16,
+                    "to the right of",
+                    0
+                ],
+                [
+                    16,
+                    "to the left of",
+                    23
+                ],
+                [
+                    16,
+                    "to the left of",
+                    18
+                ],
+                [
+                    16,
+                    "to the right of",
+                    20
+                ],
+                [
+                    16,
+                    "to the left of",
+                    5
+                ],
+                [
+                    17,
+                    "to the right of",
+                    0
+                ],
+                [
+                    17,
+                    "to the left of",
+                    23
+                ],
+                [
+                    17,
+                    "to the right of",
+                    25
+                ],
+                [
+                    17,
+                    "to the left of",
+                    8
+                ],
+                [
+                    17,
+                    "to the left of",
+                    13
+                ],
+                [
+                    18,
+                    "to the right of",
+                    20
+                ],
+                [
+                    18,
+                    "to the left of",
+                    4
+                ],
+                [
+                    18,
+                    "to the right of",
+                    16
+                ],
+                [
+                    18,
+                    "to the right of",
+                    5
+                ],
+                [
+                    20,
+                    "to the left of",
+                    23
+                ],
+                [
+                    20,
+                    "to the left of",
+                    18
+                ],
+                [
+                    20,
+                    "to the left of",
+                    16
+                ],
+                [
+                    20,
+                    "to the left of",
+                    5
+                ],
+                [
+                    20,
+                    "to the left of",
+                    13
+                ],
+                [
+                    21,
+                    "to the right of",
+                    6
+                ],
+                [
+                    21,
+                    "to the right of",
+                    7
+                ],
+                [
+                    21,
+                    "to the right of",
+                    24
+                ],
+                [
+                    23,
+                    "to the left of",
+                    24
+                ],
+                [
+                    23,
+                    "to the right of",
+                    17
+                ],
+                [
+                    23,
+                    "to the right of",
+                    16
+                ],
+                [
+                    23,
+                    "to the left of",
+                    7
+                ],
+                [
+                    23,
+                    "to the left of",
+                    6
+                ],
+                [
+                    23,
+                    "to the right of",
+                    0
+                ],
+                [
+                    23,
+                    "to the right of",
+                    20
+                ],
+                [
+                    24,
+                    "to the right of",
+                    7
+                ],
+                [
+                    24,
+                    "to the left of",
+                    21
+                ],
+                [
+                    24,
+                    "to the right of",
+                    8
+                ],
+                [
+                    24,
+                    "to the right of",
+                    23
+                ],
+                [
+                    25,
+                    "to the left of",
+                    17
+                ],
+                [
+                    26,
+                    "to the right of",
+                    9
+                ]
+            ],
+            "height": 375,
+            "width": 500
+        }
+    },
+    {
+        "data_path": "2414608.jpg",
+        "annotation": {
+            "bboxes": [
+                [
+                    133,
+                    179,
+                    141,
+                    190
+                ],
+                [
+                    234,
+                    190,
+                    245,
+                    214
+                ],
+                [
+                    227,
+                    76,
+                    257,
+                    115
+                ],
+                [
+                    222,
+                    71,
+                    259,
+                    93
+                ],
+                [
+                    233,
+                    89,
+                    256,
+                    113
+                ],
+                [
+                    1,
+                    1,
+                    498,
+                    331
+                ],
+                [
+                    134,
+                    41,
+                    259,
+                    213
+                ],
+                [
+                    114,
+                    148,
+                    158,
+                    207
+                ],
+                [
+                    237,
+                    185,
+                    247,
+                    193
+                ],
+                [
+                    178,
+                    128,
+                    237,
+                    182
+                ]
+            ],
+            "labels": [
+                "logo",
+                "hand",
+                "head",
+                "hair",
+                "face",
+                "ocean",
+                "surfer",
+                "surfboard",
+                "watch",
+                "shorts"
+            ],
+            "attributes": [
+                [],
+                [],
+                [],
+                [
+                    "brown"
+                ],
+                [],
+                [
+                    "water",
+                    "calm"
+                ],
+                [
+                    "shirtless",
+                    "surfing",
+                    "surfing"
+                ],
+                [
+                    "white",
+                    "splashing"
+                ],
+                [
+                    "white"
+                ],
+                [
+                    "colorful"
+                ]
+            ],
+            "relations": [
+                [
+                    0,
+                    "to the left of",
+                    8
+                ],
+                [
+                    0,
+                    "on",
+                    7
+                ],
+                [
+                    1,
+                    "to the right of",
+                    7
+                ],
+                [
+                    1,
+                    "above",
+                    5
+                ],
+                [
+                    6,
+                    "on",
+                    7
+                ],
+                [
+                    6,
+                    "riding on",
+                    7
+                ],
+                [
+                    6,
+                    "wearing",
+                    9
+                ],
+                [
+                    6,
+                    "in",
+                    5
+                ],
+                [
+                    7,
+                    "to the left of",
+                    8
+                ],
+                [
+                    7,
+                    "to the left of",
+                    9
+                ],
+                [
+                    7,
+                    "to the left of",
+                    1
+                ],
+                [
+                    8,
+                    "on",
+                    1
+                ],
+                [
+                    8,
+                    "to the right of",
+                    0
+                ],
+                [
+                    8,
+                    "to the right of",
+                    7
+                ],
+                [
+                    9,
+                    "to the right of",
+                    7
+                ]
+            ],
+            "height": 333,
+            "width": 500
+        }
+    },
+    {
+        "data_path": "2373557.jpg",
+        "annotation": {
+            "bboxes": [
+                [
+                    1,
+                    78,
+                    499,
+                    374
+                ],
+                [
+                    403,
+                    200,
+                    431,
+                    260
+                ],
+                [
+                    392,
+                    188,
+                    409,
+                    217
+                ],
+                [
+                    86,
+                    148,
+                    103,
+                    173
+                ],
+                [
+                    419,
+                    201,
+                    429,
+                    211
+                ],
+                [
+                    391,
+                    210,
+                    411,
+                    219
+                ],
+                [
+                    87,
+                    166,
+                    103,
+                    172
+                ],
+                [
+                    292,
+                    64,
+                    309,
+                    154
+                ],
+                [
+                    327,
+                    4,
+                    357,
+                    168
+                ],
+                [
+                    393,
+                    203,
+                    409,
+                    216
+                ],
+                [
+                    59,
+                    14,
+                    73,
+                    116
+                ],
+                [
+                    395,
+                    187,
+                    402,
+                    192
+                ],
+                [
+                    406,
+                    232,
+                    426,
+                    256
+                ],
+                [
+                    221,
+                    72,
+                    239,
+                    139
+                ],
+                [
+                    257,
+                    32,
+                    267,
+                    141
+                ],
+                [
+                    89,
+                    162,
+                    99,
+                    170
+                ],
+                [
+                    393,
+                    254,
+                    442,
+                    263
+                ]
+            ],
+            "labels": [
+                "hillside",
+                "person",
+                "person",
+                "person",
+                "helmet",
+                "skis",
+                "skis",
+                "tree trunk",
+                "tree trunk",
+                "legs",
+                "tree trunk",
+                "helmet",
+                "legs",
+                "tree trunk",
+                "tree trunk",
+                "pants",
+                "skis"
+            ],
+            "attributes": [
+                [
+                    "white",
+                    "snowy"
+                ],
+                [
+                    "standing",
+                    "skiing"
+                ],
+                [
+                    "standing",
+                    "skiing"
+                ],
+                [
+                    "standing",
+                    "crouched",
+                    "skiing"
+                ],
+                [],
+                [],
+                [],
+                [
+                    "brown"
+                ],
+                [
+                    "brown"
+                ],
+                [],
+                [
+                    "brown"
+                ],
+                [],
+                [],
+                [
+                    "brown"
+                ],
+                [
+                    "brown"
+                ],
+                [
+                    "black"
+                ],
+                []
+            ],
+            "relations": [
+                [
+                    1,
+                    "wearing",
+                    4
+                ],
+                [
+                    1,
+                    "wearing",
+                    16
+                ],
+                [
+                    1,
+                    "on",
+                    0
+                ],
+                [
+                    1,
+                    "going down",
+                    0
+                ],
+                [
+                    1,
+                    "to the right of",
+                    5
+                ],
+                [
+                    1,
+                    "to the right of",
+                    2
+                ],
+                [
+                    1,
+                    "to the right of",
+                    9
+                ],
+                [
+                    2,
+                    "wearing",
+                    11
+                ],
+                [
+                    2,
+                    "wearing",
+                    5
+                ],
+                [
+                    2,
+                    "on",
+                    0
+                ],
+                [
+                    2,
+                    "going down",
+                    0
+                ],
+                [
+                    2,
+                    "to the left of",
+                    1
+                ],
+                [
+                    2,
+                    "to the left of",
+                    4
+                ],
+                [
+                    3,
+                    "on",
+                    0
+                ],
+                [
+                    3,
+                    "going down",
+                    0
+                ],
+                [
+                    3,
+                    "wearing",
+                    6
+                ],
+                [
+                    3,
+                    "wearing",
+                    15
+                ],
+                [
+                    4,
+                    "to the right of",
+                    9
+                ],
+                [
+                    4,
+                    "to the right of",
+                    2
+                ],
+                [
+                    5,
+                    "to the left of",
+                    1
+                ],
+                [
+                    7,
+                    "to the left of",
+                    8
+                ],
+                [
+                    7,
+                    "to the right of",
+                    13
+                ],
+                [
+                    7,
+                    "to the right of",
+                    14
+                ],
+                [
+                    8,
+                    "to the right of",
+                    13
+                ],
+                [
+                    8,
+                    "to the right of",
+                    14
+                ],
+                [
+                    8,
+                    "to the right of",
+                    7
+                ],
+                [
+                    9,
+                    "to the left of",
+                    1
+                ],
+                [
+                    9,
+                    "to the left of",
+                    4
+                ],
+                [
+                    13,
+                    "to the left of",
+                    7
+                ],
+                [
+                    13,
+                    "to the left of",
+                    14
+                ],
+                [
+                    13,
+                    "to the left of",
+                    8
+                ],
+                [
+                    14,
+                    "to the left of",
+                    8
+                ],
+                [
+                    14,
+                    "to the left of",
+                    7
+                ],
+                [
+                    14,
+                    "to the right of",
+                    13
+                ]
+            ],
+            "height": 375,
+            "width": 500
+        }
+    },
+    {
+        "data_path": "2413658.jpg",
+        "annotation": {
+            "bboxes": [
+                [
+                    460,
+                    255,
+                    484,
+                    272
+                ],
+                [
+                    25,
+                    184,
+                    39,
+                    191
+                ],
+                [
+                    56,
+                    184,
+                    76,
+                    197
+                ],
+                [
+                    413,
+                    185,
+                    484,
+                    226
+                ],
+                [
+                    420,
+                    253,
+                    466,
+                    323
+                ],
+                [
+                    3,
+                    3,
+                    496,
+                    372
+                ],
+                [
+                    258,
+                    167,
+                    284,
+                    186
+                ],
+                [
+                    447,
+                    177,
+                    480,
+                    192
+                ]
+            ],
+            "labels": [
+                "glove",
+                "hat",
+                "hat",
+                "microwave",
+                "apron",
+                "kitchen",
+                "hat",
+                "hat"
+            ],
+            "attributes": [
+                [
+                    "white"
+                ],
+                [
+                    "white",
+                    "round"
+                ],
+                [
+                    "white",
+                    "round"
+                ],
+                [],
+                [
+                    "striped",
+                    "black"
+                ],
+                [],
+                [
+                    "white",
+                    "round"
+                ],
+                [
+                    "white",
+                    "round"
+                ]
+            ],
+            "relations": [
+                [
+                    0,
+                    "to the right of",
+                    4
+                ],
+                [
+                    1,
+                    "to the left of",
+                    2
+                ],
+                [
+                    2,
+                    "to the right of",
+                    1
+                ],
+                [
+                    3,
+                    "in",
+                    5
+                ],
+                [
+                    4,
+                    "to the left of",
+                    0
+                ]
+            ],
+            "height": 375,
+            "width": 500
+        }
+    }
+]
