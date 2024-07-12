@@ -10,6 +10,9 @@ from ..dataset import SceneGraph
 
 
 class SceneGraphCaptionGenerator(BaseGenerator):
+	des_templates = [
+		{}
+	]
 	inflect_engine = inflect.engine()
 
 	def _generate(self, annotation: SceneGraph, templates: List) -> List:
@@ -73,6 +76,9 @@ def graph_to_json(graph: SceneGraph):
 
 
 class SceneGraphQAGenerator(BaseGenerator):
+	qa_templates = [
+		{}
+	]
 	inflect_engine = inflect.engine()
 
 	def _generate(self, annotation: SceneGraph, templates: List) -> List:

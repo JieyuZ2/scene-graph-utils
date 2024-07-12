@@ -47,6 +47,7 @@ if __name__ == "__main__":
 	# SG
 	gen = SceneGraphCaptionGenerator(
 		dataset=sg_dataset,
+		template_mode='description'
 	)
 	for data in gen.generate():
 		if data['data_path'] == img:

@@ -3,6 +3,7 @@ from sg.dataset import *
 from sg.generators.attribute import *
 from sg.generators.object import *
 from sg.generators.relation import *
+from sg.generators.scene_graph import *
 
 if __name__ == "__main__":
 
@@ -44,6 +45,10 @@ if __name__ == "__main__":
 			print(data['prompt'], data['response'], sep='\n')
 
 	# SG
+	gen = SceneGraphQAGenerator(
+		dataset=sg_dataset,
+		template_mode='qa'
+	)
 	for data in gen.generate():
 		if data['data_path'] == img:
 			print(data['generator'])

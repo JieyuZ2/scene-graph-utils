@@ -86,7 +86,7 @@ def get_relation_desc(graph, node, rng) -> str:
 		for target in targets:
 			mention_node(graph, target)
 
-		targets = [get_attr_obj_desc(graph, target) for target in targets]
+		targets = [get_attr_obj_desc(graph, target, rng) for target in targets]
 		target_desc = make_and_description(targets, rng)
 
 		relations_desc.append(
